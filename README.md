@@ -1,23 +1,28 @@
 # fuzzylazer
-Troll-in-progress
+TWroll-in-progress
 
 # Objectives
 
 The main objective of fuzzylazer is execute in an arranged way fuzzing over all systems and protocols availables in the market:
 
-- HTTP
-- HTTPS
-- SMTP
-- POP3
-- IMAP
-- CAN-BUS
-- LIN-BUS
-- WI-FI
-- Ethernet
-- Bluetooth
-- JTAG
-- Analog and digital inputs and outputs
-- ...
+- Network protocols:
+    - HTTP
+    - HTTPS
+    - SMTP
+    - POP3
+    - IMAP
+    - WI-FI
+    - Ethernet
+    - Bluetooth
+    - ...
+- Car protocols:
+    - CAN-BUS
+    - LIN-BUS
+    - ...
+- Hardware:
+    - JTAG
+    - Analog and digital inputs and outputs
+    - ...
 
 # Fuzzylazer no-limitations
 
